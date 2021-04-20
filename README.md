@@ -1,1 +1,1 @@
-# quasi_monte_carlo
+# calculation of european put option by quasi Monte Carlo method
